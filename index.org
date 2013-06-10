@@ -1,0 +1,9 @@
+#+TITLE: Patrick O'Neill
+#+Author: Patrick O'Neill
+#+email: pon2@umbc.edu
+
+[[file:research.org][Research]] [[file:teaching.org][Teaching]] CV [[file:links.org][Links]]
+
+#+BEGIN_HTML
+<a href="http://github.com/poneill"><img src="./imgs/GitHub-Mark-32px.png" alt="GitHub"/></a> <a href="http://twitter.com/#!/patkoneill"><img src="./imgs/twitter_logo.png" alt="Twitter"/></a> 
+#+END_HTML

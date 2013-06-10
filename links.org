@@ -1,0 +1,13 @@
+#+TITLE: Links
+#+Author: Patrick O'Neill
+#+email: pon2@umbc.edu
+
+Self-promotion:
+  - [[http://compbio.umbc.edu][Lab webpage]]
+
+Actually useful links:
+  - [[http://bionumbers.hms.harvard.edu/][BioNumbers]]
+  - [[http://haldanessieve.org/][Haldane's sieve]]
+  - [[http://biorxiv.org/][bioRxiv]]
+  - David Liao's [[http://qbio.lookatphysics.com/index.php][q-bio tutorials]]
+
