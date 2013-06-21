@@ -1,7 +1,8 @@
 #+TITLE: Teaching
 #+AUTHOR: Patrick O'Neill
 #+EMAIL: pon2@umbc.edu
-
+#+SETUPFILE: templates/level0.org
+#+INCLUDE: templates/level0.org
 * Courses
   I've served as teaching assistant for the following courses:
 
@@ -9,15 +10,4 @@
   - BIOL 313 Introduction to Bioinformatics (Spring 2012)
   - BIOL 495 Seminar in Bioinformatics (Spring 2012)
 
-* Other Teaching
-  In addition to my formal duties as teaching assistant, I've given
-  the following talks and courses at other institutions:
-  
-  - "How to do biology with a supercomputer" Guest spot at [[https://sites.google.com/a/umbc.edu/the-artemis-project-umbc/][Project Artemis]]. 2013
-  - "Bioinformatics with Project Rosalind" Six week course at [[http://bugssonline.org/][BUGSS]] [Back by popular demand!]. 2013
-  - "DIY Bioinformatics".  Workshop at [[http://bugssonline.org/][BUGSS]]. 2013.
-  - "The Ecology of Rock-Paper-Scissors".  Guest lecture at [[http://mica.org][MICA]].  2012.
-  - "Introduction to Computational Biology".  [[https://splashumbc.learningu.org/][UMBC SPLASH!]]  2012.
-  - "A Taste of Category Theory".  [[https://splashumbc.learningu.org/][UMBC SPLASH!]] 2012.
-  - "Introduction to Monadic Computation".  Tutorial for the [[http://baltimorefp.wordpress.com/][Baltimore Functional Programming Group]].  2012.
-  - "Introduction to Programming with Python".  Eight week course delivered at the [[http://freeschool.redemmas.org/][Baltimore Free School]].  2010.
+Please see [[file:service.org][Service]] for other teaching.  

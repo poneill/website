@@ -1,6 +1,8 @@
 #+TITLE: Research
 #+AUTHOR: Patrick O'Neill
 #+EMAIL: pon2@umbc.edu
+#+SETUPFILE: templates/level0.org
+#+INCLUDE: templates/level0.org
 
 * Interests
   
@@ -12,8 +14,8 @@
   inputs and express genes as outputs.  An even shorter way of putting
   this is just to say that /cells compute their metabolism/.  I'm
   interested in helping to understand this process through
-  applications of biophysics and information theory to the study of
-  transcriptional regulation in bacteria.
+  applications of statistical physics, information theory and machine
+  learning to the study of transcriptional regulation in bacteria.
 
   I'm particularly interested in the relationships between the
   parameters that characterize transcription factors and their cognate
@@ -27,8 +29,8 @@
   requirements of the network it participates in and the evolutionary
   dynamics which produced it?  These questions lead us to develop
   mathematical and computational models of protein-DNA co-evolution in
-  order to understand the design principles and selection pressures
-  that gave transcriptional regulatory networks their present wiring.
+  order to understand the design constraints that gave transcriptional
+  regulatory networks their present wiring.
 * Publications
   - O'Neill, P., Or, M. and Erill, I. (2013). "Genome-wide Conservation of Codon Usage Bias in fast-growing Bacteria".  PLoS ONE. (submitted).
   - Kolesnikov, A., Kumchev, A., Howe, D., O'Neill, P. and Tiger, M. (2011). "Estimation of the Commodity Flow of Chlorine from Storage Data".  /J. Transp. Sec./  DOI: 10.1007/s12198-011-0081-4.  
@@ -38,9 +40,9 @@
   - "Genome-wide Conservation of Codon Usage Bias in fast-growing Bacteria".  Poster presented to the Rocky Mountain Bioinformatics Conference.  2012.
   - "Analysis of pair-wise correlations in prokaryotic transcription factor binding motifs".  Poster presented to the 8th International Conference on Bioinformatics.  2011.
   - "Circular reasoning: Stochastic optimization in the disk-covering problem" with Dennis Howell and Matthew Tiger.  Presented to the Towson University Mathematics Colloquium.  2011.
-  - "Finite Splicing Systems".  Presented to the UMBC-UBM Seminar.  2011.
+#  - "Finite Splicing Systems".  Presented to the UMBC-UBM Seminar.  2011.
   - "Finite Splicing Systems, Logically and Algebraically".  Presented to the George Washington University Logic Seminar.  2011.
   - "DIY-GEM: tools for citizen scientists", describing joint work with the Baltimore-US iGEM team. Presented to the MIT iGEM Jamboree.  2010.
-  - "Silence of the $\lambda$'s: A Geographical Model of Criminal Behavior", with Sara Miller and Dennis Howell. Invited talk for the MD-DC-VA Section MAA Meeting at Virginia State University.  2010.
+  - "Silence of the \lambda's: A Geographical Model of Criminal Behavior", with Sara Miller and Dennis Howell. Invited talk for the MD-DC-VA Section MAA Meeting at Virginia State University.  2010.
   - "Risk Estimates for Large-Scale Chlorine Road Transport Networks." Contributed talk for the George Mason University Conference on Atmospheric Transport and Dispersion Modeling. 2010.
 

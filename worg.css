@@ -954,3 +954,10 @@ content: "*** "
 	overflow: auto;
     }
 } /* END OF @media screen */
+
+#leftbox {
+    width: 400px;
+    padding-left: 0px;
+    float: left;
+    font-size: 13px;
+}

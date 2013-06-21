@@ -2,7 +2,25 @@
 #+Author: Patrick O'Neill
 #+email: pon2@umbc.edu
 
-[[file:research.org][Research]] [[file:teaching.org][Teaching]] CV [[file:links.org][Links]]
+#+SETUPFILE: templates/level0.org
+#+INCLUDE: templates/level0.org
+#+BEGIN_HTML
+<div id="leftbox">
+#+END_HTML
+[[./imgs/ampersand.jpg]]
+#+BEGIN_HTML
+</div>
+#+END_HTML
+I'm Patrick O'Neill, a second-year Ph.D. student studying computational biology
+in the [[http://compbio.umbc.edu/][Erill Lab]] at UMBC.
+
+|           |                         |
+|-----------+-------------------------|
+| email     | [[mailto:pon2@umbc.edu][pon2@umbc.edu]]           |
+| phone     | 443.406.6284            |
+| meatspace | Biological Sciences 105 |
+|           |                         |
+
 
 #+BEGIN_HTML
 <a href="http://github.com/poneill"><img src="./imgs/GitHub-Mark-32px.png" alt="GitHub"/></a> <a href="http://twitter.com/#!/patkoneill"><img src="./imgs/twitter_logo.png" alt="Twitter"/></a> 

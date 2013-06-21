@@ -1,13 +1,29 @@
 #+TITLE: Links
 #+Author: Patrick O'Neill
 #+email: pon2@umbc.edu
-
+#+SETUPFILE: templates/level0.org
+#+INCLUDE: templates/level0.org
 Self-promotion:
   - [[http://compbio.umbc.edu][Lab webpage]]
 
-Actually useful links:
+Servers:
   - [[http://bionumbers.hms.harvard.edu/][BioNumbers]]
-  - [[http://haldanessieve.org/][Haldane's sieve]]
+  - [[http://prodoric.tu-bs.de/][PRODORIC]]
+  - [[http://regulondb.ccg.unam.mx/][RegulonDB]]
+  - [[http://www.tbdb.org/][TBDB]]
+Preprint archives:
+  - [[http://arxiv.org/archive/q-bio][q-bio on arxiv]]
   - [[http://biorxiv.org/][bioRxiv]]
+Blogs:
+  - [[http://johncarlosbaez.wordpress.com/][Azimuth]]
+  - [[http://golem.ph.utexas.edu/category/][n-category cafe]]
+  - [[http://haldanessieve.org/][Haldane's sieve]]
+  - [[http://simplystatistics.org/][Simply Statistics]]
+Reproducible Research:
+  - [[http://reproducibleresearch.net/index.php/Main_Page][reproducibleresearch.net]]
+  - [[http://www.kieranhealy.org/files/misc/workflow-apps.pdf][Choosing Your Workflow Applications]] (Kieran Healy; pdf)
+  - [[http://blog.kaggle.com/2012/10/15/make-for-data-scientists/][Make for Data Scientists]]
+Community Labs
+  - [[bugssonline.org][BUGSS]]
+Miscellany:
   - David Liao's [[http://qbio.lookatphysics.com/index.php][q-bio tutorials]]
-

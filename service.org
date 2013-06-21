@@ -1,0 +1,23 @@
+#+TITLE: Service
+#+AUTHOR: Patrick O'Neill
+#+EMAIL: pon2@umbc.edu
+#+SETUPFILE: templates/level0.org
+#+INCLUDE: templates/level0.org
+
+Outside of formal teaching duties, I'm always happy to talk directly
+to the public about general science.  Here's a list of informal
+courses and talks I've given to lay audiences:
+
+* Courses
+  - "Bioinformatics with Project Rosalind" Six week course at [[http://bugssonline.org/][BUGSS]] [Back by popular demand!]. 2013
+  - "Introduction to Programming with Python".  Eight week course delivered at the [[http://freeschool.redemmas.org/][Baltimore Free School]].  2010.
+
+* Talks 
+  - "How to do biology with a supercomputer" Guest spot at [[https://sites.google.com/a/umbc.edu/the-artemis-project-umbc/][Project Artemis]]. 2013
+  - "DIY Bioinformatics".  Workshop at [[http://bugssonline.org/][BUGSS]]. 2013.
+  - "Computational Biology".  Guest lecture at [[http://www.friendsbalt.org/][Friends School]].  2012.
+  - "The Ecology of Rock-Paper-Scissors".  Guest lecture at [[http://mica.org][MICA]].  2012.
+  - "Introduction to Computational Biology".  [[https://splashumbc.learningu.org/][UMBC SPLASH!]]  2012.
+  - "A Taste of Category Theory".  [[https://splashumbc.learningu.org/][UMBC SPLASH!]] 2012.
+  - "Introduction to Monadic Computation".  Tutorial for the [[http://baltimorefp.wordpress.com/][Baltimore Functional Programming Group]].  2012.
+  
