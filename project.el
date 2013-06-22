@@ -15,8 +15,8 @@
      :table-of-contents nil
      :author nil
      :email nil
-     ;:publishing-directory "/ssh:pon2@gl.umbc.edu:~/www"
-     :publishing-directory "/ssh:pon2@gl.umbc.edu:/afs/umbc.edu/public/www/compbio/members/pat"
+     :publishing-directory "/ssh:pon2@gl.umbc.edu:~/www"
+     ;:publishing-directory "/ssh:pon2@gl.umbc.edu:/afs/umbc.edu/public/www/compbio/members/pat"
      :auto-sitemap t
      :sitemap-filename "sitemap.org"
      :sitemap-title "Sitemap"

@@ -14,9 +14,8 @@
   inputs and express genes as outputs.  An even shorter way of putting
   this is just to say that /cells compute their metabolism/.  I'm
   interested in helping to understand this process through
-  applications of information theory machine learning and a few ideas
-  from statistical physics to the study of transcriptional regulation
-  in bacteria.
+  applications of information theory, machine learning and statistical
+  physics to the study of transcriptional regulation in bacteria.
 
   I'm particularly interested in the relationships between the
   parameters that characterize transcription factors and their cognate

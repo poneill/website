@@ -19,9 +19,12 @@ in the [[http://compbio.umbc.edu/][Erill Lab]] at UMBC.
 | email     | [[mailto:pon2@umbc.edu][pon2@umbc.edu]]           |
 | phone     | 443.406.6284            |
 | meatspace | Biological Sciences 105 |
-|           |                         |
+|           | 1000 Hilltop Circle     |
+|           | Catonsville MD 21228    |
+
 
 
 #+BEGIN_HTML
+<p>
 <a href="http://github.com/poneill"><img src="./imgs/GitHub-Mark-32px.png" alt="GitHub"/></a> <a href="http://twitter.com/#!/patkoneill"><img src="./imgs/twitter_logo.png" alt="Twitter"/></a> 
 #+END_HTML
