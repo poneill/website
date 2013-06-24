@@ -23,6 +23,9 @@ Reproducible Research:
   - [[http://reproducibleresearch.net/index.php/Main_Page][reproducibleresearch.net]]
   - [[http://www.kieranhealy.org/files/misc/workflow-apps.pdf][Choosing Your Workflow Applications]] (Kieran Healy; pdf)
   - [[http://blog.kaggle.com/2012/10/15/make-for-data-scientists/][Make for Data Scientists]]
+Useful Utilities:
+  - [[http://detexify.kirelabs.org/classify.html][Detexify]]
+  - [[http://weblogo.berkeley.edu/logo.cgi][Weblogo]]
 Community Labs
   - [[bugssonline.org][BUGSS]]
 Miscellany:
