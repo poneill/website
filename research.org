@@ -32,7 +32,10 @@
   order to understand the design constraints that gave transcriptional
   regulatory networks their present wiring.
 * Publications
-  - O'Neill, P., Or, M. and Erill, I. (2013). "Genome-wide Conservation of Codon Usage Bias in fast-growing Bacteria".  PLoS ONE. (submitted).
+  - O'Neill, P.K., Forder, R.K. and Erill, I. "Informational Requirements for Transcriptional Regulation".  To appear in /Journal of Computational Biology/.
+  - Joseph P. Cornish, Neus Sanchez-Alberola, Patrick K. O’Neill, Ronald O'Keefe, Jameel Gheba, and Ivan Erill. "Characterization of the SOS meta-regulon in the human gut microbiome." /Bioinformatics/ first published online January 8, 2014. [[http://bioinformatics.oxfordjournals.org/citmgr%3Fgca%3Dbioinfo%3Bbtt753v2][doi:10.1093/bioinformatics/btt753 ]]
+  - O'Neill, P.K., Or, M. and Erill, I. (2013). "Genome-wide Conservation of Codon Usage Bias in fast-growing Bacteria".  /PLoS ONE/. 2013.  [[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076177][DOI: 10.1371/journal.pone.0076177]].
+
   - Kolesnikov, A., Kumchev, A., Howe, D., O'Neill, P. and Tiger, M. (2011). "Estimation of the Commodity Flow of Chlorine from Storage Data".  /J. Transp. Sec./  DOI: 10.1007/s12198-011-0081-4.  
 * Talks and Posters
   - "Exact Fermi-Dirac Statistics for Bacterial Transcription Factors". Poster presented to GLBIO 2013.
