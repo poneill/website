@@ -7,11 +7,11 @@
 #+BEGIN_HTML
 <div id="leftbox">
 #+END_HTML
-[[./imgs/ampersand.jpg]]
+[[./imgs/cliff_jump.jpg]]
 #+BEGIN_HTML
 </div>
 #+END_HTML
-I'm Patrick O'Neill, a second-year Ph.D. student studying computational biology
+I'm Patrick O'Neill, a third-year Ph.D. student studying computational biology
 in the [[http://compbio.umbc.edu/][Erill Lab]] at UMBC.
 
 |           |                         |
